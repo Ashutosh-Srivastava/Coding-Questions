@@ -1,4 +1,4 @@
-# This was my solution submitted and passed 5/10 test cases
+# This was my solution submitted and passed all the test cases
 '''
 Author: Ashutosh Srivastava
 Python3 solution
